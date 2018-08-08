@@ -1,0 +1,203 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	font-family: sans-serif;
+}
+.navbar{
+	margin-bottom:10px;
+}
+.jumbotron{
+	margin-bottom: 0px;
+}
+.sidemenu{
+    padding: 2%;
+}
+
+.more{
+	margin-left: 25%;
+}
+.bg-grey{
+	background-color: #1b1b1b;
+	color: grey;
+}
+.grey{
+	background-color: #888;
+}
+.rel{
+	cursor: pointer;
+}
+
+.bg-blue{
+	background-color: #0081c6;
+	color: white;
+	font-size: 9pt;
+}
+
+.bg-blue2{
+	background-color:rgb(4, 194, 204) ;
+	color: white;
+
+}
+.bg-black{
+	background-color: #1a2226;
+	color: white;
+}
+.bg-black2{
+	background-color: #1a2226;
+	color: white;
+}
+.bg-grey2{
+	background-color: #222d32;
+	color: white;
+}
+.stp{
+	color: #6f6b6b;
+}
+#dealer{
+	margin:0;
+	padding: 2px 2px 2px 40px;
+}
+	#dealer img{
+		width: 170px;
+		cursor: pointer;
+
+
+
+}
+#smobil{ padding: 12px;}
+.thumbnail{
+  padding: 25px 0 15px 0;
+  border: none;
+  border-radius: 0;
+}
+  .thumbnail:hover{
+    box-shadow: 0 0 20px grey;
+    transition: 0.4s;
+  }
+	#cars{
+		padding: 0px 0px 0px 50px;
+	}
+	#cars img{
+		width: 312px;
+		cursor: pointer;
+
+	}
+.box_img{
+	width: 222px;
+	height: 190px;
+
+}
+.rw-flt{
+
+}
+.filter{
+	border:1px grey solid;
+}
+footer{
+	margin-top: 50px;
+	padding: 25px 15px;
+}
+
+#ajukan{
+	padding: 13px;
+}
+#KKM, .akun{
+	padding: 10px;
+	margin-top: 3%;
+	box-shadow: 0 0 20px grey;
+}
+
+.menu li a{
+	color: #fff;
+
+}
+	.menu li a:hover{
+		color: #4b94bf;
+		transition: 0.3s;
+		cursor: pointer;
+	}
+.menu2 li a{
+	color: #fff;
+}
+	.menu2 li a:hover{
+		color: #1e282c;
+		transition: 0.3s;
+		cursor: pointer;
+	}
+
+.box{
+	float: right;
+  	padding: 25px 0 15px 0;
+  	border: 1px grey solid;
+  	box-shadow: 0 0 10px grey;
+  	border-radius: 5px;
+  	margin-right: 5%;
+}
+
+.mobil{
+	width: 100%;
+	height: 100%;
+}
+
+.list{
+	padding: 10px 0 0 35px;
+	text-decoration: none;
+	list-style: none;
+}
+
+.dash-box{
+  	margin-right: 4%;
+  	border-radius: 2px;
+  	margin-top: 1%;
+  	color:white;
+}
+/*blue*/
+.blue{background-color: #00c0ef;}
+.ico-blue{color: #00a3cb;}
+.footer-blue{background-color: #00a3cb;}
+.foot-blue:hover{background-color: #3c8dbc;}
+/*green*/
+.green{background-color: #00a65a;}
+.ico-green{color:#008d4d;}
+.footer-green{background-color: #008d4d;}
+.foot-green:hover{background-color: #006638;}
+/*yellow*/
+.yellow{background-color: #f39c12;}
+.ico-yellow{color: #cf850f;}
+.footer-yellow{background-color: #cf850f;}
+.foot-yellow:hover{background-color: #a66b0c;}
+
+.ico{
+	position: absolute;
+	right: 0;
+	padding:20px;
+	font-size: 75pt;
+}
+	.ico:hover{
+		font-size: 85pt;
+		transition: .5s;
+	}
+
+.small-box-footer{
+	width: 100%;
+	cursor: pointer;
+}
+.small-box-footer a{color: white;}
+
+.box-dash:hover{
+	box-shadow: 0 0 20px #4f98c3 !important;
+}
+
+.img-plastic{
+	border: 10px solid transparent;
+	margin-bottom: 25px;
+	width: 80%;
+	height: 80%;
+	opacity: 0.7;
+}
+
+.footerSideLine{
+	border-right: 0.5px grey solid;
+	height: 100px;
+
+}
